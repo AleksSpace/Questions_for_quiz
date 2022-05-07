@@ -30,9 +30,13 @@
 
 ```
 git clone https://github.com/AleksSpace/Questions_for_quiz.git
+
 или
+
 git clone git@github.com:AleksSpace/Questions_for_quiz.git
+
 или
+
 git clone gh repo clone AleksSpace/Questions_for_quiz
 ```
 
