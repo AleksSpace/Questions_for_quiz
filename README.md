@@ -41,7 +41,7 @@ git clone gh repo clone AleksSpace/Questions_for_quiz
 
 ```docker-compose up -d --build```
 
-# Всё, сервис работает!!!
+### Всё, сервис работает!!!
 
 # Для его проверки воспользуемя приложением Postman.
 
