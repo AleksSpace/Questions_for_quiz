@@ -1,5 +1,14 @@
 # Вопросы для викторины
 
+### Stack:
+
+```
+1. Python
+2. Django
+3. Django REST Framework
+4. Docker-compose
+```
+
 В сервисе реализовано REST API, принимающее на вход POST запросы с содержимым вида 
 ```
 {"questions_num": integer}
@@ -56,3 +65,6 @@ git clone gh repo clone AleksSpace/Questions_for_quiz
 ```
 где integer - это количество вопросов
 
+![Снимок экрана 2022-05-07 144746](https://user-images.githubusercontent.com/88335340/167252955-4744e1c4-7bec-454e-b548-5669b5efebd1.png)
+
+##### в ответ вы получите предыдущий сохранённый вопрос для викторины.
