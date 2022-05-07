@@ -19,11 +19,13 @@
 
 1. Клонируйте репозиторий к себе на компьютер с помощью команды:
 
-```git clone https://github.com/AleksSpace/Questions_for_quiz.git```
+```
+git clone https://github.com/AleksSpace/Questions_for_quiz.git
 или
-```git clone git@github.com:AleksSpace/Questions_for_quiz.git```
+git clone git@github.com:AleksSpace/Questions_for_quiz.git
 или
-```git clone gh repo clone AleksSpace/Questions_for_quiz```
+git clone gh repo clone AleksSpace/Questions_for_quiz
+```
 
 2. Создайте виртуальное окружение и активируйте его с помощью команды:
 
